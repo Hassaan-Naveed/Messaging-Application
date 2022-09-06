@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:architecture="http://www.eclipse.org/papyrus/infra/core/architecture" xmlns:di="http://www.eclipse.org/papyrus/0.7.0/sashdi">
+  <di:SashWindowsMngr>
+    <sashModel currentSelection="/0/@sashModel/@windows.0/@children.0" restoreActivePage="true">
+      <windows>
+        <children xsi:type="di:TabFolder" currentSelection="/0/@sashModel/@windows.0/@children.0/@children.9">
+          <children>
+            <emfPageIdentifier href="papyrus.welcome:dynamic#/"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_bhda4ErBEeuXmMxXDJeMJA"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_Kn5kQFy-Eeu1RaWnon4lBg"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_8BpBUFzEEeu1RaWnon4lBg"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_fV8boFz1EeuhbZ2aKT7LXw"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_2LpLYFzREeuxoPJc13bXVw"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_-p9AYGbVEeu7VKJwN3ccBA"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_upJzkGWTEeuS343rV_0dVw"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_aq8mAGiDEeuloLrYI-XNfQ"/>
+          </children>
+          <children>
+            <emfPageIdentifier href="platform:/resource/SDI/SDI.notation#_uBFi4JhoEeu72NR3p-8IZA"/>
+          </children>
+        </children>
+      </windows>
+    </sashModel>
+  </di:SashWindowsMngr>
+  <architecture:ArchitectureDescriptionPreferences>
+    <viewpointIds>org.eclipse.papyrus.uml.analysis</viewpointIds>
+    <viewpointIds>org.eclipse.papyrus.uml.design</viewpointIds>
+  </architecture:ArchitectureDescriptionPreferences>
+</xmi:XMI>
